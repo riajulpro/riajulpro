@@ -51,7 +51,7 @@ Duration: 6 days
 2. Reduced cart abandonment through optimized checkout process.
 3. Tech: React.js, Node.js, Mongoose, TailwindCSS and JWT.
 
-#### Links: ["Live Site"](https://exforum24.web.app)
+#### Links: [Live Site](https://exforum24.web.app) | [Client](https://github.com/riajulpro/exforum24-client.git) | [Server](https://github.com/riajulpro/exforum24-server.git)
 
 ## Project 2: StudyHub - An Online Group Study Platform
 
@@ -65,7 +65,7 @@ Duration: 3 days
    hub enhances collaborative learning
 3. Tech: React.js, Node.js, TailwindCSS and MongoDB.
 
-#### Links: ["Live Site"](https://riajul-pro-authentication.web.app)
+#### Links: [Live Site](https://riajul-pro-authentication.web.app) | [Client](https://github.com/riajulpro/studyhub-client.git) | [Server](https://github.com/riajulpro/studyhub-server.git)
 
 ## Project 3: MoviesHub - Responsive Categorized Movies Centre
 
@@ -79,4 +79,4 @@ Duration: 3 days
    selections with a streamlined cart interface
 3. Tech: React.js, Node.js, TailwindCSS and MongoDB.
 
-#### Links: ["Live Site"](https://rp-assignment-10.web.app)
+#### Links: [Live Site](https://rp-assignment-10.web.app) | [Client](https://github.com/riajulpro/movieshub-client.git) | [Server](https://github.com/riajulpro/movieshub-server.git)
