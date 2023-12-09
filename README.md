@@ -1,4 +1,4 @@
-[!["Banner"](./assets/banner.gif)](https://linkedin.com/in/riajulpro)
+[!["Banner"](./assets/banner.gif)](https://linkedin.com/in/riajul-pro)
 
 <h1 align="center">Hello there! 👋, I'm RiaJul</h1>
 <h3 align="center">A Frontend Developer with React and Next.js Experience</h3>
@@ -10,7 +10,7 @@ Hello there! I'm RiaJul Pro, a dedicated `MERN` stack developer and front-end sp
 # 💫 Stay in touch with:
 
 [!["email"](./assets/email-small.png)](mailto:riajulpro@outlook.com)
-[!["linkedin"](./assets/linkedin.png)](https://linkedin.com/in/riajulpro)
+[!["linkedin"](./assets/linkedin.png)](https://linkedin.com/in/riajul-pro)
 [!["facebook"](./assets/facebook.png)](https://facebook.com/pro.riajul)
 
 # 💻 My Work Space:
