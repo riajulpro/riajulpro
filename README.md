@@ -29,15 +29,15 @@ a challenging role to contribute and learn in an innovative environment.
 
 # My Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riajulpro&show_icons=true&theme=tokyonight&border_color=333)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riajulpro&show_icons=true&theme=dracula&border_color=333)
 
 # Most Used Language into the Repo:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riajulpro&layout=donut&theme=tokyonight&border_color=333)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riajulpro&layout=donut&theme=dracula&border_color=333)](https://github.com/anuraghazra/github-readme-stats)
 
 # My Streak:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=riajulpro&theme=tokyonight&mode=weekly&border_color=333)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=riajulpro&theme=dracula&mode=daily&border_color=333)](https://git.io/streak-stats)
 
 # My Recent Projects Info:
 
@@ -51,7 +51,7 @@ Duration: 6 days
 2. Reduced cart abandonment through optimized checkout process.
 3. Tech: React.js, Node.js, Mongoose, TailwindCSS and JWT.
 
-#### Links: Live Site
+#### Links: ["Live Site"](https://exforum24.web.app)
 
 ## Project 2: StudyHub - An Online Group Study Platform
 
@@ -65,7 +65,7 @@ Duration: 3 days
    hub enhances collaborative learning
 3. Tech: React.js, Node.js, TailwindCSS and MongoDB.
 
-#### Links: Live Site
+#### Links: ["Live Site"](https://riajul-pro-authentication.web.app)
 
 ## Project 3: MoviesHub - Responsive Categorized Movies Centre
 
@@ -79,4 +79,4 @@ Duration: 3 days
    selections with a streamlined cart interface
 3. Tech: React.js, Node.js, TailwindCSS and MongoDB.
 
-#### Links: Live Site
+#### Links: ["Live Site"](https://rp-assignment-10.web.app)
