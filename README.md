@@ -79,4 +79,4 @@ Duration: 3 days
    selections with a streamlined cart interface
 3. Tech: React.js, Node.js, TailwindCSS and MongoDB.
 
-#### Links: [Live Site](https://rp-assignment-10.web.app) | [Client](https://github.com/riajulpro/movieshub-client.git) | [Server](https://github.com/riajulpro/movieshub-server.git)
+#### Links: [Live Site](https://riajulpro-movieshub.surge.sh) | [Client](https://github.com/riajulpro/movieshub-client.git) | [Server](https://github.com/riajulpro/movieshub-server.git)
