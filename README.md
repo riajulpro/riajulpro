@@ -1,4 +1,4 @@
-[!["Banner"](./assets/new-banner.png)](https://linkedin.com/in/riajul-pro)
+[!["Banner"](./assets/updated-black-banner.png)](https://linkedin.com/in/riajul-pro)
 
 <h1 align="center">Hello there! 👋, I'm RiaJul</h1>
 <h3 align="center">A Frontend Developer with React and Next.js Experience</h3>
